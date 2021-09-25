@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Adriano_Melquiades_MidTermTest-NEW/1.0.0": {
+        "runtime": {
+          "Adriano_Melquiades_MidTermTest-NEW.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Adriano_Melquiades_MidTermTest-NEW/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
